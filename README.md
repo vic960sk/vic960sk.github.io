@@ -1,1 +1,1 @@
-vic的GitHub博客
+Welcome to vic's GitHub blog
